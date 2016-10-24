@@ -1,0 +1,26 @@
+.image
+{
+	width: 700px;
+	height: 500px;
+}
+.heading
+{
+	font-family: georgia;
+}
+.textpic
+{
+	font-size: 20px;
+	font-family: serif;
+	font-weight: bold;
+	margin-top: 10px;
+}
+.selector
+{
+	padding: 10px;
+	margin-top: 70px;
+	font-family: verdana;
+}
+.optiontext
+{
+	font-family: verdana;
+}
