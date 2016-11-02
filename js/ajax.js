@@ -16,6 +16,7 @@ $(document).ready(function(){
 		//if requests success 
 		.done(function(html){
 			console.log('Success');
+			//getting at div tag with id infoid and updating its html to whatever the response we get by making requests
 			$('#infoid').html(html);
 		})
 		//if requests fail
